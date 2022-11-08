@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leticiafrancaa
 - 👀 I’m interested in Java Developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on com a comunidade 
 - 📫 How to reach me ...
 
 <!---
